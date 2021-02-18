@@ -1,0 +1,2 @@
+# Bubble_Shooter_CMPE244
+Bubble shooter is an arcade game that has bubbles or balls present on the screen. The bubbles are of different colors and the goal is to clear them by forming a group of bubbles (3 or more) of the same color. Points are earned upon clearing the bubbles and increases with the number of bubbles cleared in a single shot. The player wins upon clearing the screen and loses when the bubbles touch the bottom of the screen.
